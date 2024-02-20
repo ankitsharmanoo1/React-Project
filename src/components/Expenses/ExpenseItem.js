@@ -1,7 +1,7 @@
 import './ExpenseItem.css';
 import ExpenseDate from './ExpenseDate';
 
-import React,{ useState } from "react";
+// import React,{ useState } from "react";
 
 // import Card from '../UI/Card';
 
